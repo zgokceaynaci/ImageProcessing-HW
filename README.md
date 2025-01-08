@@ -25,13 +25,13 @@ This repository contains the implementation of histogram equalization and histog
 
 
 ### 📄 Functionality
-- **Histogram Equalization:
-Reads a grayscale image.
-Computes the histogram of the image.
-Redistributes pixel intensity values to enhance contrast.
-Saves the processed image and plots the new histogram.
-- **Histogram Stretching:
-Reads a grayscale image.
-Identifies the minimum and maximum intensity values.
-Linearly stretches the pixel intensity values to cover the full range (0-255).
-Saves the processed image and plots the stretched histogram.
+Histogram Equalization:
+**Reads a grayscale image.
+**Computes the histogram of the image.
+**Redistributes pixel intensity values to enhance contrast.
+**Saves the processed image and plots the new histogram.
+Histogram Stretching:
+**Reads a grayscale image.
+**Identifies the minimum and maximum intensity values.
+**Linearly stretches the pixel intensity values to cover the full range (0-255).
+**Saves the processed image and plots the stretched histogram.
