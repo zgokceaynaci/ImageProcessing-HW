@@ -21,7 +21,7 @@ This repository contains the implementation of histogram equalization and histog
 
 ### 1. Clone the repository:
     ```bash
-    git clone https://github.com/zgokceaynaci/image-processing-histogram.git
+    git clone https://github.com/zgokceaynaci/ImageProcessing-HW.git
 
 
 ### 📄 Functionality
